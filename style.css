@@ -2,3 +2,58 @@
     background-color: #cc6060;
     font-weight: 500;
 }
+
+h1 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.center-slim {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 50%;
+    text-align: center;
+}
+
+.totheleft {
+    float: left;
+}
+
+.totheright {
+    float: right;
+}
+
+.ptimage {
+    height: 250px;
+    margin-left: 20px;
+}
+
+.classimage {
+    height: 250px;
+    margin-right: 20px;
+}
+
+.trainerdiv {
+    display: inline-block;
+    padding: 20px;
+}
+
+p {
+    display:block;
+}
+
+h2 {
+    margin-left: 10px;
+    padding-bottom: 10px;
+    text-decoration: underline;
+}
+
+h3 {
+    padding-bottom: 20px;
+}
+
+.inthemiddle {
+    text-align: center;
+}
